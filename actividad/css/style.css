@@ -1,0 +1,18 @@
+header {
+    color: blue;
+}
+
+table {
+    color: crimson;
+}
+
+
+h1,h2,h3 {
+    color: firebrick;
+}
+
+li,footer, p {
+    color: darkblue;
+}
+
+
